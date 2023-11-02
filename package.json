@@ -4,7 +4,8 @@
   "description": "Homework tasks",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "typechecks": "tsc"
   },
   "repository": {
     "type": "git",
